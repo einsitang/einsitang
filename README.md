@@ -10,7 +10,7 @@
 > 
 > I have ten year develop and architecture experience , for now working at home .
 > 
-> you can contact me with this github or mail [me](my-tangjianbin@163.com)
+> you can contact me with this github or mail [me](mailto:my-tangjianbin@163.com)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/einsitang/einsitang/master/gifs/coder.gif" />
 

@@ -8,7 +8,7 @@
 
 > I'm a software enginner from China , love develop software and life for it , opensource contributor coding with **java** / **nodejs** and **go** .
 > 
-> I have ten year develop and architecture experience , for now working at home .
+> I have ten years of develop and architecture experience , for now working at home .
 > 
 > you can contact me with this github or mail [me](mailto:my-tangjianbin@163.com)
 

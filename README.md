@@ -17,23 +17,23 @@
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" alt="spring"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/koa/koa.png" alt="koa"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="dart"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="redis"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png" alt="es"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" alt="idea"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png" alt="macos"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" alt="spring"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/koa/koa.png" alt="koa"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="dart"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="mongodb"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="redis"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png" alt="es"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" alt="idea"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></code>
+<code><img height="47" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png" alt="macos"></code>
 
 
 ### Dev Stuffs and Projects:

@@ -29,9 +29,11 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" alt="idea"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></code>
 
 
-### Projects and Dev Stuffs:
+### Dev Stuffs and Projects:
 
 <details open>	
   <br />

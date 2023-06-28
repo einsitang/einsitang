@@ -81,7 +81,7 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/apache/rocketmq-spring?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/apache/rocketmq-spring?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/apache/rocketmq-spring?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/apache/rocketmq-spring?label=javascript&style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/apache/rocketmq-spring?label=java&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/einsitang/rain"><b>🚀 rain-project</b></a></td>
@@ -133,6 +133,7 @@
       </tr>
     </tbody>
   </table>
+
   <br />
 </details>
 

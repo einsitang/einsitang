@@ -92,6 +92,14 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/einsitang/rain?style=flat-square"/></td> 
       </tr>
       <tr>
+	      <td><a href="https://github.com/einsitang/go-security"><b>🚀 go-security</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/einsitang/go-security?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/einsitang/go-security?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/einsitang/go-security?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/einsitang/go-security?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/einsitang/go-security?style=flat-square"/></td> 
+      </tr>
+      <tr>
 	      <td><a href="https://github.com/einsitang/sudoku-go"><b>🚀 sudoku-go</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/einsitang/sudoku-go?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/einsitang/sudoku-go?style=flat-square&labelColor=343b41"/></td>
